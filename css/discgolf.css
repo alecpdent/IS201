@@ -32,9 +32,9 @@ ul{font-size: 10; font-style: italic; color: rgb(96, 96, 96);}
     border-top: 2px solid black;
     bottom: 5px;
     height: 25px;
-    color: gray;
+    color: rgb(73, 73, 73);
     font-style: italic;
-    font-size: 16px;
+    font-size: 12px;
     text-align: right;
 }
 
